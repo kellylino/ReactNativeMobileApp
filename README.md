@@ -31,5 +31,8 @@ This project demonstrates my ability to design and implement full-stack applicat
 **Database:**
 - MongoDB
 
+**Cloud:**
+AWS S3
+
 ---
 
