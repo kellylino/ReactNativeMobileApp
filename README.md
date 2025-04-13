@@ -32,7 +32,7 @@ This project demonstrates my ability to design and implement full-stack applicat
 - MongoDB
 
 **Cloud:**
-AWS S3
+- AWS S3
 
 ---
 
